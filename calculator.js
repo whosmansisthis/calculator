@@ -13,4 +13,11 @@ catch(err) {
 	d("Error");
 }
 }
+function hi(){
+	 var x=document.getElementById("d").value;
+	 x=x*x;
+	 d(x)
+}
+	 
+
 	
